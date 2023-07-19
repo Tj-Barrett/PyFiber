@@ -2,7 +2,7 @@
 ![pyFiber](https://user-images.githubusercontent.com/71855260/150607476-3baf341f-54a8-4799-aec4-ebb21cea910f.png)
 
 ```
-PyFiber is in beta as a side project
+PyFiber is in development as a side project
 ```
 
 PyFiber is a visualization tool used to manually determine the percent crystallinity of polymer films and fibers from XRD rather than through tools such as Jade or PDXL. 
